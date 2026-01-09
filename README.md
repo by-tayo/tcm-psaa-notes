@@ -1,3 +1,3 @@
-# SOC CLI Toolkit
+# SOCBOX
 
-In preparation for my TCM PSAA exam.
+A cli toolkit in preparation for my TCM PSAA exam
